@@ -1,3 +1,6 @@
 [submodule "curl"]
 	path = curl
 	url = https://github.com/curl/curl.git
+[submodule "pthreads"]
+	path = pthreads
+	url = https://github.com/stbrowne/pthreads-win32.git
